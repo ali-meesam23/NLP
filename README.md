@@ -1,4 +1,4 @@
-# Sentiment and Technical Analysis Trading System
+Natural Language Processing
 
 This repository contains code and resources for a sentiment and technical analysis trading system. The system combines sentiment analysis techniques with technical analysis indicators to generate intraday trading signals. It leverages various libraries and algorithms to collect, analyze, and process sentiment data from multiple sources, including Twitter, Stocktwits, Reddit, Telegram, and news headlines from Yahoo and Interactive Brokers. The system also utilizes technical analysis libraries such as TA-Lib for feature engineering and generating trading signals for swing trading and scalping strategies.
 
